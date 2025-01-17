@@ -48,7 +48,7 @@ bevy_core_pipeline = { git = "https://github.com/gehud/bevy.git", branch = "bevy
 bevy_pbr = { git = "https://github.com/gehud/bevy.git", branch = "bevy_editor", optional = true }
 bevy_image = { git = "https://github.com/gehud/bevy.git", branch = "bevy_editor", optional = true }
 
-egui = "0.30"
+egui = "0.29"
 bevy_egui = { git = "https://github.com/gehud/bevy_egui.git", branch = "bevy_editor", default-features = false }
 
 bytemuck = "1.16.0"
